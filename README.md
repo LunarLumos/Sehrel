@@ -16,7 +16,7 @@ Visit the app here: [Sehrel](https://your-website-link.com)
 ## Example
 Below is an example of how the app appears:
 
-![Sehrel Example](https://your-website-link.com/example-image.png)
+![Sehrel Example](https://raw.githubusercontent.com/LunarLumos/Sehrel/refs/heads/main/info/Sehrel.png)
 
 ## Contact
 For any issues or suggestions, feel free to reach out to the developers or support team at [aadil025@yahoo.com](mailto:aadil025@yahoo.com).
