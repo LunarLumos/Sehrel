@@ -4,7 +4,7 @@
 
 **Made by LunarLabs**
 
-Visit the app here: [Sehrel](https://your-website-link.com)
+Visit the app here: [Sehrel](https://lunarlumos.github.io/Sehrel/)
 
 ## Features
 - Accurate Sehri and Iftar times for Dhaka.
